@@ -121,11 +121,17 @@ h2{
     text-align: center;
     margin-left: 25%;
     font-family: 'Merienda', cursive;
-   
 }
 #contacts{
-    text-align: center;
+    /* text-align: center; */
     background-color: burlywood;
     font-family: 'Merienda', cursive;
-  
+    padding-left: 40%;
+    align-items: center;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    padding-right: 55%;
+    font-size: 40px;
 }
