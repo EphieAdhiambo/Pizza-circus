@@ -83,7 +83,7 @@ h2{
       font-family: 'Merienda', cursive;
   }
   #about-us{
-      background-color: transparent;
+      /* background-color: transparent; */
       text-align: center;
   }
   p1{
@@ -96,17 +96,18 @@ h2{
     background-size: cover;
     /* background-repeat: no-repeat; */
     color:white;
+    text-align: center;
     padding-top: 4%;
     padding-bottom: 4%;
+    font-family: 'Merienda', cursive;
   }
-  #about-us-overlay{
+  /* #about-us-overlay{
       background-color: white;
     margin-left: 2%;
     margin-right: 2%;
     padding-bottom: 20px;
     padding-left: 6%;
   }
-
-
-
-
+   */
+   
+  
