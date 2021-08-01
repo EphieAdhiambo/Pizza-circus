@@ -102,18 +102,34 @@ h2{
     font-family: 'Merienda', cursive;
   }
   
-   #order{
+   /* #order{
        text-align: center;
        background-color: paleturquoise;
        font-family: 'Merienda', cursive;
        font-size: 18px;
-   }
+   } */
   
  
   button{
-      background-color: black;
+      background-color:brown;
       color: white;
   }
-  /* .container-fluid{
-      margin: auto;
-  } */
+  .container-order {
+    background-color:burlywood;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+.card-order{
+    background-color: black;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    font-family: 'Merienda', cursive;
+    font-size: 18px;
+   
+}
