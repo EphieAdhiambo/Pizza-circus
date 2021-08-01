@@ -101,15 +101,6 @@ h2{
     padding-bottom: 4%;
     font-family: 'Merienda', cursive;
   }
-  
-   /* #order{
-       text-align: center;
-       background-color: paleturquoise;
-       font-family: 'Merienda', cursive;
-       font-size: 18px;
-   } */
-  
- 
   button{
       background-color:brown;
       color: white;
@@ -130,6 +121,11 @@ h2{
     text-align: center;
     margin-left: 25%;
     font-family: 'Merienda', cursive;
-    font-size: 18px;
    
+}
+#contacts{
+    text-align: center;
+    background-color: burlywood;
+    font-family: 'Merienda', cursive;
+  
 }
