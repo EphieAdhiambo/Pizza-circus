@@ -12,6 +12,7 @@ li a{
     text-align: right;
     color:blanchedalmond;
     text-decoration: none;
+    font-family: 'Merienda', cursive;
 }
 nav{
     background-color:black;
@@ -46,6 +47,7 @@ ul{
     text-align: center;
     padding-top: 140px;
     /* font-size: 30px; */
+    font-family: 'Merienda', cursive;
 }
 h1{
     font-size: 60px;
@@ -73,6 +75,7 @@ h1{
 }
 h2{
     text-align: center;
+    font-family: 'Merienda', cursive;
 }
 /* .menu{
     text-align: center;
@@ -85,6 +88,7 @@ h2{
   } */
   .card-title{
       text-align: center;
+      font-family: 'Merienda', cursive;
   }
 
 
