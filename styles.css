@@ -25,14 +25,16 @@ ul{
     margin: 0%;
     list-style: none;
 }
-img{
+/* img{
     width: 55px;
     height: 55px;
-}
+} */
 .logo img{
     position: absolute;
     margin-top: 5px ;
     margin-left: 10px;
+    width: 55px;
+    height: 55px;
 }
 .landing{
     background-image: url(images/chad-montano-MqT0asuoIcU-unsplash.jpg);
@@ -56,7 +58,7 @@ h1{
     width: 60%;
 }
 .bounce{
-    animation: bounce 2s infinite;
+    animation: bounce 3s infinite;
 }
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
@@ -68,6 +70,19 @@ h1{
     60% {
       transform: translateY(-20px);
     }
+}
+h2{
+    text-align: center;
+}
+.menu{
+    /* text-align: center; */
+    align-items: center;
+
+}
+/* .col-md-4{
+    border-radius: 10%;
+    padding: 10px;
+  } */
 
 
 
