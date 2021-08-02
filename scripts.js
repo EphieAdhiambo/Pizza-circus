@@ -18,24 +18,16 @@ function getQuantity() {
   var number = document.getElementById("quantity").value;
   return parseInt(quantity);
 }
-
-/* function for total amount */
 function totalAmount() {
   var totals = (getSize() +getFlavour() + getCrust() + getToppings()) * getQuantity();
   alert(
-    "You have Ordered " +
-    getQuantity("") +
-    " pizza," +
-    "" +
-    " amounting to ksh. " +
-    totals +
-    "" +
-    " Thanks for your order welcome again."
+    "We have recieved your order." + "Total price is 2300 "+
+    "Thank you for making an order!"
   );
 
-  // variable to get the location of the customer
-  var location = prompt("If you want your pizza to be delivered to you please enter your location and if not cancel.");
+ 
+  var location = prompt("For Delivery, please put in your location");
   if (location !== "") {
-    alert("You order will be delivered shortly.Delivery fee is 100/= and incase you didn,t want it delivered please come for your order.");
+    alert("Delivery Fee is 200.Your Order will be Delivered within 20-30mins");
   }
 }
