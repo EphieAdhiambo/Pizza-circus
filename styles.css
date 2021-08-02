@@ -25,12 +25,7 @@ ul{
     list-style: none;
     width: 100%;
     margin: 0%;
-    list-style: none;
-}
-/* img{
-    width: 55px;
-    height: 55px;
-} */
+} 
 .logo img{
     position:absolute;
     margin-top: 5px ;
@@ -78,6 +73,7 @@ h2{
     text-align: center;
     font-family: 'Merienda', cursive;
 }
+
   .card-title{
       text-align: center;
       font-family: 'Merienda', cursive;
