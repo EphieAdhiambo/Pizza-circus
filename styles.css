@@ -18,6 +18,7 @@ nav{
     background-color:black;
     overflow: auto;
     width: 100%;
+    position:fixed;
     
 }
 ul{
@@ -31,7 +32,7 @@ ul{
     height: 55px;
 } */
 .logo img{
-    position: absolute;
+    position:absolute;
     margin-top: 5px ;
     margin-left: 10px;
     width: 55px;
@@ -77,10 +78,10 @@ h2{
     text-align: center;
     font-family: 'Merienda', cursive;
 }
-
   .card-title{
       text-align: center;
       font-family: 'Merienda', cursive;
+      background: fixed;
   }
   #about-us{
       /* background-color: transparent; */
@@ -106,7 +107,7 @@ h2{
       color: white;
   }
   .container-order {
-    background-color:burlywood;
+    background-color:white;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -116,7 +117,7 @@ h2{
     padding-bottom: 4%;
   }
 .card-order{
-    background-color: black;
+    background-color:coral;
     width: 50%;
     text-align: center;
     margin-left: 25%;
@@ -124,7 +125,7 @@ h2{
 }
 #contacts{
     /* text-align: center; */
-    background-color: burlywood;
+    background-color:white;
     font-family: 'Merienda', cursive;
     padding-left: 40%;
     align-items: center;
